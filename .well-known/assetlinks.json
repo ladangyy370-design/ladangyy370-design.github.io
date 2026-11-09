@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.draftfx.xauusdjournal",
+      "sha256_cert_fingerprints": [
+        "63:BC:CB:4B:E6:5F:75:AB:F4:56:95:BF:A4:62:1C:2D:F7:9B:CA:C2:7F:AC:41:E2:A3:D4:09:E6:82:5A:EA:AE"
+      ]
+    }
+  }
+]
